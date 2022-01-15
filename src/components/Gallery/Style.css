@@ -1,0 +1,9 @@
+
+#gallery-items {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 60%;
+	margin: 0 auto;
+}
+
